@@ -1,6 +1,6 @@
 # pokemon-ai
 
-A [textgenrnn](https://github.com/minimaxir/textgenrnn) text-generating AI to generate Pokèmon names, using data from [PokèAPI](https://pokeapi.co).
+A [textgenrnn](https://github.com/minimaxir/textgenrnn) text-generating AI to generate Pokémon names, using data from [PokéAPI](https://pokeapi.co).
 
 The network is deliberately small (16-cell RNNs x 4 layers) to prevent overfitting.
 
