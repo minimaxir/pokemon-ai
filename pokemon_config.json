@@ -1,0 +1,1 @@
+{"rnn_layers": 4, "rnn_size": 16, "rnn_bidirectional": false, "max_length": 4, "max_words": 10000, "dim_embeddings": 100, "word_level": false, "single_text": false, "name": "pokemon"}
